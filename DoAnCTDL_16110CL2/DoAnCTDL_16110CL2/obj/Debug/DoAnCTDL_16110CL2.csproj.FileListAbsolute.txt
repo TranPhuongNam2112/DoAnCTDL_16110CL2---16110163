@@ -1,0 +1,17 @@
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\bin\Debug\DoAnCTDL_16110CL2.exe.config
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\bin\Debug\DoAnCTDL_16110CL2.exe
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\bin\Debug\DoAnCTDL_16110CL2.pdb
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.csprojResolveAssemblyReference.cache
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.Form1.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.Properties.Resources.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.csproj.GenerateResource.Cache
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.exe
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.pdb
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.Form2.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.Form3.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.DangNhap.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.Them.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.XoaSV.resources
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\bin\Debug\DoAnCTDL_16110CL2.exe.config
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.exe
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\DoAnCTDL_16110CL2\DoAnCTDL_16110CL2\obj\Debug\DoAnCTDL_16110CL2.pdb

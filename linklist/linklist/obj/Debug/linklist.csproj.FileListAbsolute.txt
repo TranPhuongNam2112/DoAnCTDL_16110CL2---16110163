@@ -1,0 +1,15 @@
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\bin\Debug\linklist.exe.config
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\bin\Debug\linklist.exe
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\bin\Debug\linklist.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\obj\Debug\linklist.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\obj\Debug\linklist.exe
+c:\users\mypc\documents\visual studio 2015\Projects\linklist\linklist\obj\Debug\linklist.pdb
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\bin\Debug\linklist.exe.config
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\obj\Debug\linklist.exe
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\obj\Debug\linklist.pdb
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\bin\Debug\linklist.exe
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\bin\Debug\linklist.pdb
+C:\Users\Phuong Nam\Desktop\DoAn\linklist\linklist\obj\Debug\linklist.csprojResolveAssemblyReference.cache
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\linklist\linklist\bin\Debug\linklist.exe.config
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\linklist\linklist\obj\Debug\linklist.exe
+C:\Users\Phuong Nam\Desktop\DoAn\DoAnCTDL_DSSV_16110CL2\linklist\linklist\obj\Debug\linklist.pdb
